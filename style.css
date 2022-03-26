@@ -53,9 +53,7 @@ svg{
 
 @media (max-width:500px) {
    
-    svg{
-        margin-left: 40px;
-    }
+    
 
     .textInput{
         margin-left:0 ;
