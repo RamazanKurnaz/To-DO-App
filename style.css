@@ -13,10 +13,10 @@
     border-radius: 4px; 
     text-align: center;
     box-shadow: 2px 2px 8px rgba(0, 0, 0, 0.37);
-    position: absolute;
+    
     left: 50%;
     top: 50%;
-    transform: translate(-50%,-50%);
+
     width: 460px;
     height: 680px;
     
